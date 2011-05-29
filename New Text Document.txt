@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 gue ganti semuanya!
+=======
+apa hayoo!
+apa aja deh..
+tambah lagi yaa..
+>>>>>>> desfrie/master
